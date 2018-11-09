@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -38,89 +38,77 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Printing.v12.2.Core">
+    <Reference Include="DevExpress.Printing.v13.1.Core">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.Printing.v12.2.Core.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Data.v12.2">
+    <Reference Include="DevExpress.Data.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.Data.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Chart.v12.2, Version=12.2.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+    <Reference Include="DevExpress.ExpressApp.Chart.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.ExpressApp.Chart.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Chart.Web.v12.2, Version=12.2.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.ExpressApp.Chart.Web.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.ExpressApp.Chart.Web.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Xpo.v12.2">
+    <Reference Include="DevExpress.ExpressApp.Xpo.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.ExpressApp.Xpo.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.v12.2">
+    <Reference Include="DevExpress.ExpressApp.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.ExpressApp.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Images.v12.2">
+    <Reference Include="DevExpress.ExpressApp.Images.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.ExpressApp.Images.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Objects.v12.2">
+    <Reference Include="DevExpress.ExpressApp.Objects.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.ExpressApp.Objects.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Security.v12.2">
+    <Reference Include="DevExpress.ExpressApp.Security.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.ExpressApp.Security.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Validation.v12.2">
+    <Reference Include="DevExpress.ExpressApp.Validation.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.ExpressApp.Validation.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Web.v12.2">
+    <Reference Include="DevExpress.ExpressApp.Web.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.ExpressApp.Web.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Persistent.Base.v12.2">
+    <Reference Include="DevExpress.Persistent.Base.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.Persistent.Base.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Persistent.BaseImpl.v12.2">
+    <Reference Include="DevExpress.Persistent.BaseImpl.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.Persistent.BaseImpl.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxEditors.v12.2">
+    <Reference Include="DevExpress.Web.ASPxEditors.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.Web.ASPxEditors.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxGridView.v12.2">
+    <Reference Include="DevExpress.Web.ASPxGridView.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.Web.ASPxGridView.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Web.v12.2">
+    <Reference Include="DevExpress.Office.v13.1.Core">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.Web.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Xpo.v12.2">
+    <Reference Include="DevExpress.Docs.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.Xpo.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Charts.v12.2.Core, Version=12.2.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+    <Reference Include="DevExpress.RichEdit.v13.1.Core">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.Charts.v12.2.Core.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v12.2.Wizard, Version=12.2.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+    <Reference Include="DevExpress.Web.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.XtraCharts.v12.2.Wizard.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v12.2, Version=12.2.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+    <Reference Include="DevExpress.Xpo.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.XtraCharts.v12.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v12.2.Web, Version=12.2.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+    <Reference Include="DevExpress.Charts.v13.1.Core, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker78\TestFolder\Dlls\12.2.2\DevExpress.XtraCharts.v12.2.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v13.1.Wizard, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v13.1.Web, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
     </Reference>
     <Reference Include="System">
       <Private>False</Private>
