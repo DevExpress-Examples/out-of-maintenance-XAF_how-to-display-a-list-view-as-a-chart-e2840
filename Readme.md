@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/ChartExample.Module.Web/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/ChartExample.Module.Web/Model.DesignedDiffs.xafml))
+* [WebModule.Designer.cs](./CS/ChartExample.Module.Web/WebModule.Designer.cs) (VB: [WebModule.Designer.vb](./VB/ChartExample.Module.Web/WebModule.Designer.vb))
+* [Model.DesignedDiffs.xafml](./CS/ChartExample.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/ChartExample.Module.Win/Model.DesignedDiffs.xafml))
+* [WinModule.Designer.cs](./CS/ChartExample.Module.Win/WinModule.Designer.cs) (VB: [WinModule.Designer.vb](./VB/ChartExample.Module.Win/WinModule.Designer.vb))
+* [Model.DesignedDiffs.xafml](./CS/ChartExample.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/ChartExample.Module/Model.DesignedDiffs.xafml))
+<!-- default file list end -->
 # How to Display a List View as a Chart
 
 
