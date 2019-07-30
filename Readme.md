@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to Display a List View as a Chart
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2840)**
+**[[Run Online]](https://codecentral.devexpress.com/e2840/)**
 <!-- run online end -->
 
 
